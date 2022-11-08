@@ -7,3 +7,4 @@
 - 📫 How to reach me: svinayak994@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love music:musical_note: gaming:video_game: art:art:
+[![@culturalprofessor's Holopin board](https://holopin.me/culturalprofessor)](https://holopin.io/@culturalprofessor)
