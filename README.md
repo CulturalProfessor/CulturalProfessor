@@ -15,9 +15,9 @@
 ![anime-hacking](https://user-images.githubusercontent.com/92238941/232238393-3d1b77dd-9c48-431c-b200-0042116b9d1c.gif)
 
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
-<img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+<img src="https://profile-counter.glitch.me/{CulturalProfessor}/count.svg" alt="CulturalProfessor :: Visitor's Count" />
 
 <!--START_SECTION:waka-->
 <figure><embed src="https://wakatime.com/share/@1df81f99-038f-472b-998a-98f50e3c3321/e20861d0-db8c-41b5-9887-3aa234ca6feb.svg"></embed></figure>
