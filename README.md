@@ -12,6 +12,8 @@
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
+![anime-hacking](https://user-images.githubusercontent.com/92238941/232238393-3d1b77dd-9c48-431c-b200-0042116b9d1c.gif)
+
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
