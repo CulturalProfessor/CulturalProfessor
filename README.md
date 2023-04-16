@@ -14,7 +14,7 @@
 
 |me_IRL|JOKE OF THE DAY|NOW LISTENING...|
 |--|--|--|
-| <img src="https://user-images.githubusercontent.com/92238941/232238393-3d1b77dd-9c48-431c-b200-0042116b9d1c.gif" /> | <img align="right" src="https://readme-jokes.vercel.app/api" alt="README Jokes"> | <img  src="https://novatorem.vercel.app/api/spotify" /> |
+| <img width="100%" src="https://user-images.githubusercontent.com/92238941/232238393-3d1b77dd-9c48-431c-b200-0042116b9d1c.gif" /> | <img width="100%" align="right" src="https://readme-jokes.vercel.app/api" alt="README Jokes"> | <img width="100%" src="https://novatorem.vercel.app/api/spotify" /> |
 
 |VISITOR'S COUNT|
 |--|
