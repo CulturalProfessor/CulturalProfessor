@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Vinayak Sharma</h1>
 <h3 align="center">College student by day,coder by night.</h3>
 
-👀 Hi there! Welcome to my GitHub profile 👋
 
 - 🔭 Currently, I'm trying to figure out what my code is trying to do.
 - 💻 Looking for Web-Dev projects to collaborate on. I promise to only break the code once or twice.
@@ -32,7 +31,6 @@
 <!--END_SECTION:waka-->
 
 ---
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=culturalprofessor" alt="culturalprofessor" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
