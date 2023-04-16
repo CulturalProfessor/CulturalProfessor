@@ -22,8 +22,6 @@
 
 <br>
 
-<br>
-
 
 <!--START_SECTION:waka-->
 <figure><embed src="https://wakatime.com/share/@1df81f99-038f-472b-998a-98f50e3c3321/e20861d0-db8c-41b5-9887-3aa234ca6feb.svg"></embed></figure>
