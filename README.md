@@ -11,10 +11,9 @@
 - 😄 Pronouns: He/Him. But honestly, I don't really care what you call me as long as you don't call me late for dinner.
 - ⚡ Fun fact: I think I'm pretty good at coding. But if you ask my computer, it might tell you otherwise.
  
-
 |me_IRL|JOKE OF THE DAY|NOW LISTENING...|
 |--|--|--|
-| <img width="100%" src="https://user-images.githubusercontent.com/92238941/232238393-3d1b77dd-9c48-431c-b200-0042116b9d1c.gif" /> | <img width="100%" align="right" src="https://readme-jokes.vercel.app/api" alt="README Jokes"> | <img width="100%" src="https://novatorem.vercel.app/api/spotify" /> |
+| <img width="100%" src="https://user-images.githubusercontent.com/92238941/232341313-0afb44cd-800d-44bb-b75a-de4c0edada18.gif" /> | <img width="100%" align="right" src="https://readme-jokes.vercel.app/api" alt="README Jokes"> | <img width="100%" src="https://novatorem.vercel.app/api/spotify" /> |
 
 |VISITOR'S COUNT|
 |--|
