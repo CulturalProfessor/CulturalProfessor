@@ -3,32 +3,26 @@
 <h1 align="center">Hi 👋, I'm Vinayak Sharma</h1>
 <h3 align="center">College student by day,coder by night.</h3>
 
-- 🔭 I’m currently working on Web Development.
-- :computer: I’m looking to collaborate on Web-Dev projects.
-- :sleepy: Ask me about my sleep schedule.
-- 📫 How to reach me: svinayak994@gmail.com
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I think...
- 
- 
-<div>
+👀 Hi there! Welcome to my GitHub profile 👋
+
+- 🔭 Currently, I'm trying to figure out what my code is trying to do.
+- 💻 Looking for Web-Dev projects to collaborate on. I promise to only break the code once or twice.
+- 😴 Ask me about my sleep schedule, and I'll tell you that I'm either sleeping too much or not enough.
+- 📫 Reach me at svinayak994@gmail.com. Don't worry, I promise to reply as soon as I'm done procrastinating.
+- 😄 Pronouns: He/Him. But honestly, I don't really care what you call me as long as you don't call me late for dinner.
+- ⚡ Fun fact: I think I'm pretty good at coding. But if you ask my computer, it might tell you otherwise.
  
 
-<img align="top" src="https://novatorem.vercel.app/api/spotify" />
-  
-<img  align="right" src="https://profile-counter.glitch.me/{CulturalProfessor}/count.svg" alt="CulturalProfessor :: Visitor's Count" />
-<div>
-  
+|me_IRL|JOKE OF THE DAY|NOW LISTENING...|
+|--|--|--|
+| <img src="https://user-images.githubusercontent.com/92238941/232238393-3d1b77dd-9c48-431c-b200-0042116b9d1c.gif" /> | <img align="right" src="https://readme-jokes.vercel.app/api" alt="README Jokes"> | <img  src="https://novatorem.vercel.app/api/spotify" /> |
+
+|VISITOR'S COUNT|
+|--|
+|<img align="left" src="https://profile-counter.glitch.me/{CulturalProfessor}/count.svg" alt="CulturalProfessor :: Visitor's Count" />|
+
 <br>
-  
-<div>
-  
-<img width="40%" height="20%" align="top" src="https://user-images.githubusercontent.com/92238941/232238393-3d1b77dd-9c48-431c-b200-0042116b9d1c.gif" />
-  
-<img align="right" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
 
-<div>
- 
 <br>
 
 
@@ -53,6 +47,6 @@
  
 ---
  
-<img width="45%" height="100%" align="right" src="https://github-readme-stats.vercel.app/api?username=CulturalProfessor&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img width="48%" height="100%" align="right" src="https://github-readme-stats.vercel.app/api?username=CulturalProfessor&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
   
-<img width="42%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CulturalProfessor&theme=tokyonight" alt="mystreak"/>  
+<img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CulturalProfessor&theme=tokyonight" alt="mystreak"/>  
