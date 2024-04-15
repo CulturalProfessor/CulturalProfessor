@@ -23,7 +23,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-670%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%202%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -88,7 +88,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CulturalProfessor/CulturalProfessor/main/assets/bar_graph.png)
 
 
- Last Updated on 14/04/2024 22:37:35 UTC
+ Last Updated on 15/04/2024 18:52:39 UTC
 <!--END_SECTION:waka-->
 
 ---
