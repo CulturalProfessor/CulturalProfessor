@@ -26,7 +26,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C229%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C231%20hrs%2011%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -55,16 +55,20 @@ Sunday                   258 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 19 mins        ████████████████████████░   94.58 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+spam-extension           1 hr 23 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +84,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/03/2025 18:45:40 UTC
+ Last Updated on 09/03/2025 18:39:05 UTC
 <!--END_SECTION:waka-->
 
 ---
