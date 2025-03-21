@@ -26,7 +26,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C241%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C241%20hrs%2042%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -55,16 +55,20 @@ Sunday                   259 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   20 mins             █████████████░░░░░░░░░░░░   50.91 % 
+JSON                     10 mins             ███████░░░░░░░░░░░░░░░░░░   26.16 % 
+Makefile                 8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  40 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+inventory-system         40 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    40 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,7 +84,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2025 18:47:41 UTC
+ Last Updated on 21/03/2025 18:48:08 UTC
 <!--END_SECTION:waka-->
 
 ---
