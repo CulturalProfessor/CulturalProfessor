@@ -6,7 +6,7 @@
 ⠀⠀⠀⠀⢀⡞⢥⠏⠀⠀⣼⠁⠀⠀⠀⠀⢧⠀⠀⠀⠀⠀⠈⢦⡀⠀⠈⢣⠀⠀⠀⠀⠀⠀⠀⠀    Email: svinayak994@gmail.com
 ⠀⠀⠀⢀⡎⢡⠏⠀⠀⣀⣿⠀⠀⣠⠤⣄⠘⡆⠀⠀⠀⠀⠀⠀⠳⡀⠀⠀⢧⠀⠀⠀⠀⠀⠀⠀    LinkedIn: linkedin.com/in/vinayakshxyz
 ⠀⠀⠀⣜⠀⡞⠀⠀⣀⣀⣿⣶⡶⢿⠀⡿⠷⠾⠒⠒⠦⠤⠤⢤⣀⣻⡄⠀⠘⡆⠀⠀⠀⠀⠀⠀    GitHub: github.com/CulturalProfessor
-⠀⠀⢸⠃⢸⡗⠉⠉⠁⠀⠀⠀⠀⠈⠓⠃⠀⠀⠀⠀⠀⠀⠀⠀⠸⡆⢷⠀⠀⢹⠀⠀⠀⠀⠀⠀    Portfolio: vinyk.xyz
+⠀⠀⢸⠃⢸⡗⠉⠉⠁⠀⠀⠀⠀⠈⠓⠃⠀⠀⠀⠀⠀⠀⠀⠀⠸⡆⢷⠀⠀⢹⠀⠀⠀⠀⠀⠀    Portfolio: https://portfolio-culturalprofessors-projects.vercel.app/
 ⠀⠀⡟⠀⣾⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣇⠈⡇⠀⠘⡇⠀⠀⠀⠀⠀    Languages: TS, JS, Go, Python, C++
 ⠀⢸⠃⠀⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⢄⣱⡄⠀⣧⠀⠀⠀⠀⠀    Frameworks: Next.js, Node.js, Flask
 ⠀⢸⠀⠀⡇⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠁⠀⠀⢻⠀⠀⠀⠀⠀    Open Source: GSoC'23 & 24 @Rocket.Chat, OSPP'24 @Apache Kvrocks
