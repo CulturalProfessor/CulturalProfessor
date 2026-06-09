@@ -26,22 +26,70 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C151%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C154%20hrs%206%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                68 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+🌆 Daytime                501 commits         █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+🌃 Evening                1322 commits        ██████████████░░░░░░░░░░░   57.98 % 
+🌙 Night                  389 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   220 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Tuesday                  334 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Wednesday                342 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Thursday                 316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Friday                   309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Saturday                 503 commits         ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+Sunday                   256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               8 hrs 38 mins       ███████████░░░░░░░░░░░░░░   43.70 % 
+Markdown                 7 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   37.21 % 
+Bash                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Other                    1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+JavaScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+
+🔥 Editors: 
+VS Code                  12 hrs 44 mins      ████████████████░░░░░░░░░   64.49 % 
+Claude Code              7 hrs 1 min         █████████░░░░░░░░░░░░░░░░   35.51 % 
+
+🐱‍💻 Projects: 
+rocket-app               9 hrs 49 mins       ████████████░░░░░░░░░░░░░   49.68 % 
+rocket-health            4 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+rocket-mail              3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+useSend-main             1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+tmp                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+
+💻 Operating System: 
+Mac                      19 hrs 45 mins      █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               35 repos            ████████████░░░░░░░░░░░░░   47.95 % 
-TypeScript               14 repos            █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-Astro                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+JavaScript               34 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+TypeScript               11 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 
 
 
- Last Updated on 08/06/2026 21:19:42 UTC
+ Last Updated on 09/06/2026 20:30:30 UTC
 <!--END_SECTION:waka-->
 
 ---
