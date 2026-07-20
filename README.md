@@ -1,5 +1,5 @@
 ```
-                                             vinayak@CulturalProfessor 
+                                                vinayak@CulturalProfessor 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⠤⠤⠤⠤⠤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    ------------------------- 
 ⠀⠀⠀⠀⠀⠀⠀⠀⣀⠴⠚⢿⡟⠃⠀⡆⠀⠀⠲⣄⠀⠈⠱⡦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    Name: Vinayak Sharma
 ⠀⠀⠀⠀⠀⠀⣠⢾⡿⠚⠁⡎⠀⠀⠀⢳⡀⠀⠀⠀⠙⠦⡀⠀⠈⠓⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀    Location: Bangalore, India
