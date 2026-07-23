@@ -26,70 +26,20 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C301%20hrs%2056%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                68 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-🌆 Daytime                530 commits         ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-🌃 Evening                1346 commits        ██████████████░░░░░░░░░░░   57.18 % 
-🌙 Night                  410 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   224 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Tuesday                  344 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Wednesday                356 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Thursday                 324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Friday                   320 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Saturday                 526 commits         ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-Sunday                   260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               9 hrs 38 mins       ███████████░░░░░░░░░░░░░░   42.52 % 
-Markdown                 4 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-Other                    2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-TeX                      2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Kotlin                   52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-
-🔥 Editors: 
-Claude Code              19 hrs 57 mins      ██████████████████████░░░   87.96 % 
-VS Code                  2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-
-🐱‍💻 Projects: 
-sift                     8 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   39.35 % 
-micromanus               7 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.01 % 
-spider                   4 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-go-torrent               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-portfolio                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-
-💻 Operating System: 
-Linux                    22 hrs 41 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+TypeScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 ```
 
 
 
 
- Last Updated on 22/07/2026 19:54:57 UTC
+ Last Updated on 23/07/2026 19:58:32 UTC
 <!--END_SECTION:waka-->
 
 ---
