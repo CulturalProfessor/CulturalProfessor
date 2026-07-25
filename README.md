@@ -26,20 +26,70 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C316%20hrs%2053%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                76 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+🌆 Daytime                532 commits         ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+🌃 Evening                1355 commits        ██████████████░░░░░░░░░░░   56.86 % 
+🌙 Night                  420 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   224 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Tuesday                  345 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Wednesday                356 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Thursday                 325 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Friday                   326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Saturday                 544 commits         ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Sunday                   263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+Markdown                 4 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+TeX                      4 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+Other                    2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Python                   1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+
+🔥 Editors: 
+Claude Code              16 hrs 18 mins      █████████████████████░░░░   84.12 % 
+VS Code                  3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+
+🐱‍💻 Projects: 
+spider                   8 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.38 % 
+micromanus               7 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   39.80 % 
+crawler                  2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+sift                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+cisco_software-engineer-a8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+
+💻 Operating System: 
+Linux                    19 hrs 22 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+TypeScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
 
 
- Last Updated on 24/07/2026 19:57:47 UTC
+ Last Updated on 25/07/2026 19:46:19 UTC
 <!--END_SECTION:waka-->
 
 ---
