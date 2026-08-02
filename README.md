@@ -26,9 +26,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C306%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C309%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-248%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-251%20hrs%205%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -57,24 +57,23 @@ Sunday                   263 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   8 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   39.07 % 
-Markdown                 4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-CSV                      2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Other                    1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-TeX                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Python                   6 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   39.53 % 
+Markdown                 4 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+TeX                      2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+YAML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+CSV                      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 52 mins      ██████████████████████░░░   87.94 % 
-VS Code                  2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Claude Code              14 hrs 58 mins      ████████████████████████░   94.24 % 
+VS Code                  54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 
 🐱‍💻 Projects: 
-crawler                  19 hrs 55 mins      ███████████████████████░░   92.76 % 
-spider                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-micromanus               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-portfolio                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+crawler                  14 hrs 51 mins      ███████████████████████░░   93.46 % 
+spider                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+cactus                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Linux                    21 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +89,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 19:45:50 UTC
+ Last Updated on 02/08/2026 19:46:02 UTC
 <!--END_SECTION:waka-->
 
 ---
