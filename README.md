@@ -26,9 +26,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C324%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C326%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-265%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-268%20hrs%2011%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -57,24 +57,24 @@ Sunday                   274 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   10 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   39.81 % 
-Markdown                 6 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
-Other                    2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-TeX                      1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-TypeScript               1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Python                   9 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   35.35 % 
+Markdown                 6 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
+Other                    2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+TeX                      1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+TypeScript               1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 
 🔥 Editors: 
-Claude Code              22 hrs 38 mins      █████████████████████░░░░   84.73 % 
-VS Code                  4 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Claude Code              22 hrs 20 mins      █████████████████████░░░░   85.03 % 
+VS Code                  3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
 
 🐱‍💻 Projects: 
-vayu                     15 hrs 56 mins      ███████████████░░░░░░░░░░   59.66 % 
-crawler                  10 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   38.29 % 
-spider                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+vayu                     16 hrs 29 mins      ████████████████░░░░░░░░░   62.74 % 
+crawler                  9 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   35.18 % 
+spider                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 cactus                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Linux                    26 hrs 43 mins      █████████████████████████   100.00 % 
+Linux                    26 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +90,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 20:12:14 UTC
+ Last Updated on 05/08/2026 20:11:19 UTC
 <!--END_SECTION:waka-->
 
 ---
