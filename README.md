@@ -26,28 +26,28 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C355%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C360%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-296%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-301%20hrs%2057%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                76 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-🌆 Daytime                549 commits         ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-🌃 Evening                1363 commits        ██████████████░░░░░░░░░░░   56.53 % 
-🌙 Night                  423 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+🌞 Morning                76 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+🌆 Daytime                566 commits         ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+🌃 Evening                1376 commits        ██████████████░░░░░░░░░░░   55.98 % 
+🌙 Night                  440 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   233 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Tuesday                  347 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Wednesday                356 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Thursday                 327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Friday                   327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Saturday                 546 commits         ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-Sunday                   275 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Monday                   233 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Tuesday                  347 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Wednesday                357 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Thursday                 327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Friday                   365 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Saturday                 546 commits         ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+Sunday                   283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
 ```
 
 
@@ -57,41 +57,41 @@ Sunday                   275 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   8 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   35.46 % 
-Markdown                 7 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.39 % 
-JSON                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Other                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-TeX                      1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Python                   10 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   40.09 % 
+Markdown                 7 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.45 % 
+JSON                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Text                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Other                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 13 mins      █████████████████████░░░░   84.41 % 
-VS Code                  3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Claude Code              22 hrs 11 mins      █████████████████████░░░░   85.19 % 
+VS Code                  3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 
 🐱‍💻 Projects: 
-superdocs-builds         8 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.93 % 
-genai-stack              6 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-doctask-vinayak-sharma   4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-crawler                  3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-cpp-interview            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+superdocs-builds         13 hrs 21 mins      █████████████░░░░░░░░░░░░   51.27 % 
+genai-stack              6 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+crawler                  4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+doctask-vinayak-sharma   2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+cpp-interview            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
-Linux                    22 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    26 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+TypeScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
 
 
- Last Updated on 15/08/2026 18:59:32 UTC
+ Last Updated on 16/08/2026 18:58:50 UTC
 <!--END_SECTION:waka-->
 
 ---
