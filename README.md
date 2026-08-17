@@ -26,9 +26,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C360%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C363%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-301%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-305%20hrs%2023%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -57,25 +57,25 @@ Sunday                   283 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   10 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   40.09 % 
-Markdown                 7 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.45 % 
-JSON                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Text                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Other                    1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Python                   11 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   40.54 % 
+Markdown                 8 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+Other                    1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+JSON                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Text                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 🔥 Editors: 
-Claude Code              22 hrs 11 mins      █████████████████████░░░░   85.19 % 
-VS Code                  3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Claude Code              24 hrs 5 mins       █████████████████████░░░░   85.31 % 
+VS Code                  4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
 
 🐱‍💻 Projects: 
-superdocs-builds         13 hrs 21 mins      █████████████░░░░░░░░░░░░   51.27 % 
-genai-stack              6 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
-crawler                  4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-doctask-vinayak-sharma   2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-cpp-interview            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+superdocs-builds         16 hrs 17 mins      ██████████████░░░░░░░░░░░   57.71 % 
+genai-stack              6 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+crawler                  4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+doctask-vinayak-sharma   1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+cpp-interview            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-Linux                    26 hrs 2 mins       █████████████████████████   100.00 % 
+Linux                    28 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +91,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 18:58:50 UTC
+ Last Updated on 17/08/2026 19:10:24 UTC
 <!--END_SECTION:waka-->
 
 ---
