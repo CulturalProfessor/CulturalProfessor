@@ -57,25 +57,25 @@ Sunday                   283 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   11 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   41.19 % 
-Markdown                 7 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   29.07 % 
-Other                    1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-JSON                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Text                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Python                   7 hrs 1 min         █████████░░░░░░░░░░░░░░░░   35.35 % 
+Markdown                 6 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.75 % 
+JSON                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Other                    1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Text                     1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 19 mins      █████████████████████░░░░   85.43 % 
-VS Code                  3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Claude Code              16 hrs 40 mins      █████████████████████░░░░   83.89 % 
+VS Code                  3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
 
 🐱‍💻 Projects: 
-superdocs-builds         16 hrs 17 mins      ███████████████░░░░░░░░░░   59.68 % 
-genai-stack              5 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-crawler                  3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-doctask-vinayak-sharma   1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-invoice-app              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+superdocs-builds         15 hrs 5 mins       ███████████████████░░░░░░   75.93 % 
+crawler                  3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+doctask-vinayak-sharma   1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+invoice-app              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+portfolio                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    27 hrs 18 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +91,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 19:10:10 UTC
+ Last Updated on 19/08/2026 19:06:07 UTC
 <!--END_SECTION:waka-->
 
 ---
