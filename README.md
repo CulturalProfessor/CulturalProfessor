@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C363%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-305%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-305%20hrs%2030%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -57,39 +57,39 @@ Sunday                   283 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 59 mins       ███████████░░░░░░░░░░░░░░   42.86 % 
-Markdown                 2 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-Text                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-TeX                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Markdown                 1 hr 46 mins        ████████████░░░░░░░░░░░░░   46.07 % 
+Python                   1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   31.68 % 
+Other                    37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Git Config               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+TeX                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 35 mins       ███████████████████████░░   92.22 % 
-VS Code                  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Claude Code              3 hrs 28 mins       ███████████████████████░░   90.34 % 
+VS Code                  22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
 
 🐱‍💻 Projects: 
-superdocs-builds         7 hrs 58 mins       █████████████████████░░░░   85.63 % 
-crawler                  57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-doctask-vinayak-sharma   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+superdocs-builds         2 hrs 59 mins       ███████████████████░░░░░░   77.86 % 
+crawler                  28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+doctask-vinayak-sharma   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 
 💻 Operating System: 
-Linux                    9 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+TypeScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+GDScript                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 
 
 
 
- Last Updated on 22/08/2026 19:01:20 UTC
+ Last Updated on 23/08/2026 19:00:10 UTC
 <!--END_SECTION:waka-->
 
 ---
