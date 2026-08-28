@@ -26,28 +26,28 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C367%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C376%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-310%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-319%20hrs%2030%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                76 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-🌆 Daytime                566 commits         ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-🌃 Evening                1379 commits        ██████████████░░░░░░░░░░░   56.03 % 
-🌙 Night                  440 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+🌆 Daytime                567 commits         ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+🌃 Evening                1380 commits        ██████████████░░░░░░░░░░░   56.03 % 
+🌙 Night                  440 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Tuesday                  347 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Wednesday                357 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Thursday                 327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Friday                   365 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Saturday                 546 commits         ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-Sunday                   283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Monday                   236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Tuesday                  347 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Wednesday                357 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Thursday                 329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Friday                   365 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Saturday                 546 commits         ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+Sunday                   283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
 ```
 
 
@@ -57,25 +57,25 @@ Sunday                   283 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 3 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   38.53 % 
-Other                    1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-Python                   1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-GDScript3                54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Git                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Markdown                 6 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   35.43 % 
+Python                   4 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+Other                    3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+GDScript3                54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+TeX                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 48 mins       ██████████████████████░░░   86.33 % 
-VS Code                  1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Claude Code              13 hrs 39 mins      ████████████████████░░░░░   79.20 % 
+VS Code                  3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
 
 🐱‍💻 Projects: 
-crawler                  3 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.22 % 
-superdocs-builds         3 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   39.18 % 
-brackeys-jam-break       46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-doctask-vinayak-sharma   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-brackeys-jam             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+superdocs-builds         4 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+crawler                  4 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+doctask-vinayak-sharma   4 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+linkedin-profile-api     2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+brackeys-jam-break       46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 💻 Operating System: 
-Linux                    7 hrs 52 mins       █████████████████████████   100.00 % 
+Linux                    17 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +91,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 20:39:15 UTC
+ Last Updated on 28/08/2026 02:19:27 UTC
 <!--END_SECTION:waka-->
 
 ---
