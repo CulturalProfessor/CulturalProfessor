@@ -57,23 +57,23 @@ Sunday                   304 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   33.71 % 
-Markdown                 2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.02 % 
-Bash                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Markdown                 2 hrs 43 mins       ███████████░░░░░░░░░░░░░░   45.84 % 
+Python                   1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Other                    44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 28 mins       ███████████████████░░░░░░   76.59 % 
-VS Code                  1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+Claude Code              4 hrs 45 mins       ████████████████████░░░░░   80.08 % 
+VS Code                  1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
 
 🐱‍💻 Projects: 
-linkedin-profile-api     7 hrs 23 mins       ██████████████████████░░░   87.39 % 
-crawler                  51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-taskbench                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+linkedin-profile-api     4 hrs 52 mins       █████████████████████░░░░   82.02 % 
+crawler                  51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+taskbench                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 💻 Operating System: 
-Linux                    8 hrs 27 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,7 +89,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 20:38:31 UTC
+ Last Updated on 06/09/2026 20:43:42 UTC
 <!--END_SECTION:waka-->
 
 ---
