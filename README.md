@@ -26,27 +26,27 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C384%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C384%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-328%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-328%20hrs%2056%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                76 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-🌆 Daytime                568 commits         ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-🌃 Evening                1380 commits        ██████████████░░░░░░░░░░░   55.53 % 
-🌙 Night                  461 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+🌆 Daytime                569 commits         ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+🌃 Evening                1380 commits        ██████████████░░░░░░░░░░░   55.51 % 
+🌙 Night                  461 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Tuesday                  347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Wednesday                357 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Thursday                 329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Friday                   366 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Saturday                 546 commits         █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+Monday                   236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Tuesday                  348 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Wednesday                357 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Thursday                 329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Friday                   366 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Saturday                 546 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
 Sunday                   304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
 ```
 
@@ -57,22 +57,22 @@ Sunday                   304 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 27 mins        ███████████░░░░░░░░░░░░░░   45.39 % 
-Other                    46 mins             ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-TeX                      41 mins             █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Markdown                 1 hr 32 mins        ███████████░░░░░░░░░░░░░░   45.43 % 
+Other                    1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   40.29 % 
+TeX                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 27 mins       ███████████████████░░░░░░   76.58 % 
-VS Code                  45 mins             ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+Claude Code              2 hrs 28 mins       ██████████████████░░░░░░░   72.84 % 
+VS Code                  55 mins             ███████░░░░░░░░░░░░░░░░░░   27.16 % 
 
 🐱‍💻 Projects: 
-crawler                  2 hrs 54 mins       ███████████████████████░░   90.52 % 
-taskbench                18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+crawler                  2 hrs 51 mins       █████████████████████░░░░   84.31 % 
+taskbench                31 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
 
 💻 Operating System: 
-Linux                    3 hrs 12 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -88,7 +88,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 21:46:00 UTC
+ Last Updated on 08/09/2026 21:22:45 UTC
 <!--END_SECTION:waka-->
 
 ---
