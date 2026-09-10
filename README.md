@@ -57,22 +57,22 @@ Sunday                   304 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 45 mins        ████████████░░░░░░░░░░░░░   46.64 % 
-Other                    1 hr 31 mins        ██████████░░░░░░░░░░░░░░░   40.50 % 
-TeX                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Markdown                 1 hr 43 mins        ████████████░░░░░░░░░░░░░   46.13 % 
+Other                    1 hr 31 mins        ██████████░░░░░░░░░░░░░░░   40.88 % 
+TeX                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 50 mins       ███████████████████░░░░░░   75.34 % 
-VS Code                  55 mins             ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
+Claude Code              2 hrs 49 mins       ███████████████████░░░░░░   75.59 % 
+VS Code                  54 mins             ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
 
 🐱‍💻 Projects: 
-crawler                  3 hrs 14 mins       █████████████████████░░░░   85.87 % 
-taskbench                31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+crawler                  3 hrs 11 mins       █████████████████████░░░░   85.73 % 
+taskbench                31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 
 💻 Operating System: 
-Linux                    3 hrs 46 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -88,7 +88,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 21:08:07 UTC
+ Last Updated on 10/09/2026 21:08:23 UTC
 <!--END_SECTION:waka-->
 
 ---
