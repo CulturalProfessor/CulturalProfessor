@@ -26,9 +26,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C385%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C385%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-329%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-329%20hrs%2022%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -57,22 +57,22 @@ Sunday                   304 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 1 hr 43 mins        ████████████░░░░░░░░░░░░░   46.13 % 
-Other                    1 hr 31 mins        ██████████░░░░░░░░░░░░░░░   40.88 % 
-TeX                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Other                    1 hr 31 mins        ██████████████░░░░░░░░░░░   54.80 % 
+Markdown                 53 mins             ████████░░░░░░░░░░░░░░░░░   32.21 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 49 mins       ███████████████████░░░░░░   75.59 % 
-VS Code                  54 mins             ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+Claude Code              2 hrs 11 mins       ████████████████████░░░░░   78.90 % 
+VS Code                  35 mins             █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
 
 🐱‍💻 Projects: 
-crawler                  3 hrs 11 mins       █████████████████████░░░░   85.73 % 
-taskbench                31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+crawler                  2 hrs 15 mins       ████████████████████░░░░░   80.87 % 
+taskbench                31 mins             █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
 
 💻 Operating System: 
-Linux                    3 hrs 43 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -88,7 +88,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 21:08:23 UTC
+ Last Updated on 11/09/2026 21:12:10 UTC
 <!--END_SECTION:waka-->
 
 ---
