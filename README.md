@@ -57,25 +57,25 @@ Sunday                   350 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    6 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-Markdown                 6 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-Python                   4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Bash                     3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-TypeScript               1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Other                    6 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   28.71 % 
+Markdown                 5 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+Python                   4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Bash                     3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+TypeScript               1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
 
 🔥 Editors: 
-Claude Code              21 hrs 26 mins      █████████████████████░░░░   85.71 % 
-VS Code                  3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Claude Code              20 hrs 12 mins      █████████████████████░░░░   84.99 % 
+VS Code                  3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
 
 🐱‍💻 Projects: 
-deepvue                  8 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.76 % 
-naano-rebuild            7 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-crawler                  6 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-genai-stack              2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-linkedin-profile-api     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+deepvue                  8 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   34.47 % 
+naano-rebuild            7 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+crawler                  5 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+genai-stack              2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+linkedin-profile-api     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 
 💻 Operating System: 
-Linux                    25 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    23 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +91,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 21:41:54 UTC
+ Last Updated on 16/09/2026 21:36:17 UTC
 <!--END_SECTION:waka-->
 
 ---
