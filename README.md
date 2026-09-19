@@ -26,9 +26,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C402%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C404%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-353%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-361%20hrs%2030%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -57,25 +57,25 @@ Sunday                   350 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    7 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-Markdown                 5 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-Python                   4 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Bash                     3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-TypeScript               1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+Other                    12 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   41.89 % 
+Python                   4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Markdown                 3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Bash                     3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+TypeScript               2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 54 mins      █████████████████████░░░░   83.39 % 
-VS Code                  4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Claude Code              24 hrs 52 mins      █████████████████████░░░░   84.31 % 
+VS Code                  4 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
 
 🐱‍💻 Projects: 
-deepvue                  9 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   38.88 % 
-naano-rebuild            7 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-crawler                  4 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-genai-stack              2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-linkedin-profile-api     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+deepvue                  9 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   33.89 % 
+crawler                  9 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.03 % 
+naano-rebuild            6 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+netreg                   2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+linkedin-profile-api     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 💻 Operating System: 
-Linux                    25 hrs 4 mins       █████████████████████████   100.00 % 
+Linux                    29 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +91,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 21:10:44 UTC
+ Last Updated on 19/09/2026 20:57:30 UTC
 <!--END_SECTION:waka-->
 
 ---
