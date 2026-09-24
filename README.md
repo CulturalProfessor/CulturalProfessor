@@ -26,9 +26,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C410%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C412%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-364%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-365%20hrs%207%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -57,25 +57,25 @@ Sunday                   350 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    7 hrs 43 mins       ███████████░░░░░░░░░░░░░░   42.18 % 
-Python                   5 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   31.95 % 
-Markdown                 1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Text                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-Java                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Other                    7 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   39.21 % 
+Python                   7 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   37.60 % 
+Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Text                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Java                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 55 mins      ████████████████░░░░░░░░░   65.16 % 
-VS Code                  6 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   34.84 % 
+Claude Code              11 hrs 33 mins      ███████████████░░░░░░░░░░   60.49 % 
+VS Code                  7 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   39.51 % 
 
 🐱‍💻 Projects: 
-deepvue                  7 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   41.32 % 
-crawler                  7 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   40.10 % 
-netreg                   3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-linkedin-profile-api     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-mini-docker              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+deepvue                  8 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.62 % 
+crawler                  6 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.28 % 
+netreg                   3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+linkedin-profile-api     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+superdocs-builds         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Linux                    18 hrs 18 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +91,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 21:43:50 UTC
+ Last Updated on 24/09/2026 21:45:00 UTC
 <!--END_SECTION:waka-->
 
 ---
