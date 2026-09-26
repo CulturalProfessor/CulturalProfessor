@@ -57,25 +57,24 @@ Sunday                   350 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    6 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   41.08 % 
-Python                   6 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   38.88 % 
-Java                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-TypeScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Python                   6 hrs 14 mins       ███████████████████░░░░░░   75.63 % 
+Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 43 mins       ███████████████░░░░░░░░░░   58.24 % 
-VS Code                  6 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   41.76 % 
+VS Code                  6 hrs               ██████████████████░░░░░░░   72.71 % 
+Claude Code              2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.29 % 
 
 🐱‍💻 Projects: 
-deepvue                  7 hrs 24 mins       ███████████░░░░░░░░░░░░░░   44.32 % 
-crawler                  5 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.00 % 
-netreg                   3 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-linkedin-profile-api     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-superdocs-builds         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+deepvue                  7 hrs 9 mins        ██████████████████████░░░   86.63 % 
+crawler                  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+netreg                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+superdocs-builds         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 💻 Operating System: 
-Linux                    16 hrs 42 mins      █████████████████████████   100.00 % 
+Linux                    8 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +90,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 21:48:04 UTC
+ Last Updated on 26/09/2026 21:27:12 UTC
 <!--END_SECTION:waka-->
 
 ---
