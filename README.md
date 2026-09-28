@@ -26,9 +26,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C412%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C413%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-365%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-368%20hrs%2052%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -57,23 +57,24 @@ Sunday                   350 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   6 hrs 1 min         ████████████████████░░░░░   80.86 % 
-Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Python                   3 hrs 28 mins       ███████████░░░░░░░░░░░░░░   45.28 % 
+Other                    2 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.90 % 
+Markdown                 43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+TeX                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 45 mins       ███████████████████░░░░░░   77.30 % 
-Claude Code              1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+Claude Code              4 hrs 23 mins       ██████████████░░░░░░░░░░░   57.26 % 
+VS Code                  3 hrs 16 mins       ███████████░░░░░░░░░░░░░░   42.74 % 
 
 🐱‍💻 Projects: 
-deepvue                  6 hrs 55 mins       ███████████████████████░░   93.03 % 
-crawler                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-superdocs-builds         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+deepvue                  5 hrs 29 mins       ██████████████████░░░░░░░   71.57 % 
+crawler                  1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+localstack               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+superdocs-builds         12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 💻 Operating System: 
-Linux                    7 hrs 27 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,7 +90,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 21:34:39 UTC
+ Last Updated on 28/09/2026 23:29:59 UTC
 <!--END_SECTION:waka-->
 
 ---
