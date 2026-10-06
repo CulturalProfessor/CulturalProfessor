@@ -30,52 +30,6 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-372%20hrs%2024%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-🌆 Daytime                610 commits         ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-🌃 Evening                1412 commits        ██████████████░░░░░░░░░░░   54.16 % 
-🌙 Night                  479 commits         █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Tuesday                  350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Wednesday                357 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Thursday                 329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Friday                   402 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Saturday                 583 commits         ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-Sunday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    1 hr 15 mins        █████████░░░░░░░░░░░░░░░░   35.07 % 
-Markdown                 1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   31.72 % 
-JavaScript               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-Bash                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-
-🔥 Editors: 
-Claude Code              3 hrs 21 mins       ███████████████████████░░   93.65 % 
-VS Code                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-
-🐱‍💻 Projects: 
-crawler                  2 hrs 3 mins        ██████████████░░░░░░░░░░░   57.25 % 
-screener                 1 hr 10 mins        ████████░░░░░░░░░░░░░░░░░   32.77 % 
-deepvue                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-
-💻 Operating System: 
-Linux                    3 hrs 35 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -89,7 +43,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 00:17:24 UTC
+ Last Updated on 06/10/2026 22:47:46 UTC
 <!--END_SECTION:waka-->
 
 ---
