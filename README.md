@@ -26,9 +26,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C415%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C416%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-372%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-372%20hrs%2035%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -57,16 +57,19 @@ Sunday                   350 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 14 mins             █████████████████░░░░░░░░   67.49 % 
+Other                    7 mins              ████████░░░░░░░░░░░░░░░░░   32.51 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 mins             █████████████░░░░░░░░░░░░   53.58 % 
+Claude Code              10 mins             ████████████░░░░░░░░░░░░░   46.42 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+mini-docker              14 mins             █████████████████░░░░░░░░   67.49 % 
+sift                     7 mins              ████████░░░░░░░░░░░░░░░░░   32.51 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +85,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2026 21:58:54 UTC
+ Last Updated on 11/10/2026 22:21:00 UTC
 <!--END_SECTION:waka-->
 
 ---
