@@ -57,20 +57,20 @@ Sunday                   350 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    3 hrs 7 mins        ███████████████████████░░   92.76 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Other                    1 hr 37 mins        ██████████████████████░░░   86.91 % 
+Markdown                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 9 mins        ███████████████████████░░   93.61 % 
-VS Code                  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Claude Code              1 hr 38 mins        ██████████████████████░░░   88.63 % 
+VS Code                  12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
 
 🐱‍💻 Projects: 
-crawler                  3 hrs               ██████████████████████░░░   89.28 % 
-mini-docker              14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-sift                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+crawler                  1 hr 30 mins        ████████████████████░░░░░   80.60 % 
+mini-docker              14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+sift                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 
 💻 Operating System: 
-Linux                    3 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +86,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 00:57:41 UTC
+ Last Updated on 13/10/2026 23:03:44 UTC
 <!--END_SECTION:waka-->
 
 ---
