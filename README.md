@@ -57,20 +57,19 @@ Sunday                   350 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    20 mins             ███████████████░░░░░░░░░░   58.91 % 
-Markdown                 14 mins             ██████████░░░░░░░░░░░░░░░   41.09 % 
+Markdown                 14 mins             █████████████████░░░░░░░░   67.49 % 
+Other                    7 mins              ████████░░░░░░░░░░░░░░░░░   32.51 % 
 
 🔥 Editors: 
-Claude Code              23 mins             █████████████████░░░░░░░░   67.38 % 
-VS Code                  11 mins             ████████░░░░░░░░░░░░░░░░░   32.62 % 
+VS Code                  11 mins             █████████████░░░░░░░░░░░░   53.58 % 
+Claude Code              10 mins             ████████████░░░░░░░░░░░░░   46.42 % 
 
 🐱‍💻 Projects: 
-mini-docker              14 mins             ██████████░░░░░░░░░░░░░░░   41.09 % 
-crawler                  13 mins             ██████████░░░░░░░░░░░░░░░   39.11 % 
-sift                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+mini-docker              14 mins             █████████████████░░░░░░░░   67.49 % 
+sift                     7 mins              ████████░░░░░░░░░░░░░░░░░   32.51 % 
 
 💻 Operating System: 
-Linux                    35 mins             █████████████████████████   100.00 % 
+Linux                    21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +85,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 21:36:45 UTC
+ Last Updated on 17/10/2026 20:53:57 UTC
 <!--END_SECTION:waka-->
 
 ---
