@@ -57,19 +57,16 @@ Sunday                   350 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 14 mins             █████████████████░░░░░░░░   67.49 % 
-Other                    7 mins              ████████░░░░░░░░░░░░░░░░░   32.51 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████░░░░░░░░░░░░   53.58 % 
-Claude Code              10 mins             ████████████░░░░░░░░░░░░░   46.42 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mini-docker              14 mins             █████████████████░░░░░░░░   67.49 % 
-sift                     7 mins              ████████░░░░░░░░░░░░░░░░░   32.51 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +82,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 20:53:57 UTC
+ Last Updated on 18/10/2026 21:01:13 UTC
 <!--END_SECTION:waka-->
 
 ---
