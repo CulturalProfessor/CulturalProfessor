@@ -30,6 +30,48 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-373%20hrs%206%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+🌆 Daytime                612 commits         ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+🌃 Evening                1417 commits        ██████████████░░░░░░░░░░░   54.21 % 
+🌙 Night                  479 commits         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Tuesday                  350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Wednesday                357 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Thursday                 329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Friday                   409 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Saturday                 583 commits         ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Sunday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    1 hr 12 mins        █████████████████████░░░░   84.75 % 
+Text                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+
+🔥 Editors: 
+Claude Code              1 hr 12 mins        █████████████████████░░░░   84.42 % 
+VS Code                  13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+
+🐱‍💻 Projects: 
+crawler                  1 hr 12 mins        █████████████████████░░░░   84.75 % 
+lob                      13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+
+💻 Operating System: 
+Linux                    1 hr 25 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -43,7 +85,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 22:37:16 UTC
+ Last Updated on 20/10/2026 21:51:26 UTC
 <!--END_SECTION:waka-->
 
 ---
