@@ -57,19 +57,19 @@ Sunday                   350 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 12 mins        █████████████████████░░░░   84.75 % 
-Text                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Other                    42 mins             ███████████████████░░░░░░   76.38 % 
+Text                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
 
 🔥 Editors: 
-Claude Code              1 hr 12 mins        █████████████████████░░░░   84.42 % 
-VS Code                  13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Claude Code              42 mins             ███████████████████░░░░░░   76.37 % 
+VS Code                  13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
 
 🐱‍💻 Projects: 
-crawler                  1 hr 12 mins        █████████████████████░░░░   84.75 % 
-lob                      13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+crawler                  42 mins             ███████████████████░░░░░░   76.38 % 
+lob                      13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
 
 💻 Operating System: 
-Linux                    1 hr 25 mins        █████████████████████████   100.00 % 
+Linux                    55 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +85,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 21:51:26 UTC
+ Last Updated on 21/10/2026 21:57:37 UTC
 <!--END_SECTION:waka-->
 
 ---
