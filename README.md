@@ -26,9 +26,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C416%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C416%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-373%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-375%20hrs%2027%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -57,20 +57,21 @@ Sunday                   350 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    46 mins             ███████████████████░░░░░░   77.94 % 
-Text                     13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+Other                    2 hrs 25 mins       █████████████████████░░░░   82.03 % 
+C++                      18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 
 🔥 Editors: 
-Claude Code              51 mins             █████████████████████░░░░   85.99 % 
-VS Code                  8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Claude Code              2 hrs 41 mins       ███████████████████████░░   91.53 % 
+VS Code                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 
 🐱‍💻 Projects: 
-sdl2-opengl-renderer     25 mins             ███████████░░░░░░░░░░░░░░   43.27 % 
-crawler                  20 mins             █████████░░░░░░░░░░░░░░░░   34.66 % 
-lob                      13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+sdl2-opengl-renderer     1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   41.07 % 
+crawler                  1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   40.96 % 
+lob                      31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
 
 💻 Operating System: 
-Linux                    59 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +87,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 21:07:52 UTC
+ Last Updated on 25/10/2026 21:09:37 UTC
 <!--END_SECTION:waka-->
 
 ---
