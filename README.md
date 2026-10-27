@@ -26,9 +26,57 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C418%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C420%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-377%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-378%20hrs%2032%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                109 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+🌆 Daytime                617 commits         ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
+🌃 Evening                1425 commits        ██████████████░░░░░░░░░░░   54.18 % 
+🌙 Night                  479 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   239 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Tuesday                  354 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Wednesday                357 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Thursday                 332 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Friday                   415 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Saturday                 583 commits         ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+Sunday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    5 hrs 14 mins       █████████████░░░░░░░░░░░░   52.88 % 
+C++                      4 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   41.19 % 
+Text                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+CMake                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+
+🔥 Editors: 
+Claude Code              6 hrs 31 mins       ████████████████░░░░░░░░░   65.84 % 
+VS Code                  3 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   34.16 % 
+
+🐱‍💻 Projects: 
+lob                      4 hrs 41 mins       ████████████░░░░░░░░░░░░░   47.29 % 
+sdl2-opengl-renderer     2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+crawler                  1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+scratch-2026-10-25-e96bd336 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+scratch-2026-10-26-24a3f44 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+
+💻 Operating System: 
+Linux                    9 hrs 55 mins       █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -43,7 +91,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 22:53:23 UTC
+ Last Updated on 27/10/2026 22:33:49 UTC
 <!--END_SECTION:waka-->
 
 ---
