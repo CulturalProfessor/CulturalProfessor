@@ -26,28 +26,28 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C420%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C422%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-378%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-379%20hrs%2012%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                109 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-🌆 Daytime                617 commits         ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-🌃 Evening                1425 commits        ██████████████░░░░░░░░░░░   54.18 % 
-🌙 Night                  479 commits         █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+🌞 Morning                107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+🌆 Daytime                617 commits         ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+🌃 Evening                1423 commits        ██████████████░░░░░░░░░░░   54.19 % 
+🌙 Night                  479 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   239 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Tuesday                  354 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Wednesday                357 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Thursday                 332 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Friday                   415 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Saturday                 583 commits         ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
-Sunday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Monday                   237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Tuesday                  352 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Wednesday                359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Thursday                 332 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Friday                   413 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Saturday                 583 commits         ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+Sunday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 ```
 
 
@@ -57,25 +57,25 @@ Sunday                   350 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    5 hrs 14 mins       █████████████░░░░░░░░░░░░   52.88 % 
-C++                      4 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   41.19 % 
-Text                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-CMake                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+C++                      5 hrs 41 mins       ████████████░░░░░░░░░░░░░   49.86 % 
+Other                    4 hrs 59 mins       ███████████░░░░░░░░░░░░░░   43.77 % 
+Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+CMake                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 31 mins       ████████████████░░░░░░░░░   65.84 % 
-VS Code                  3 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   34.16 % 
+Claude Code              6 hrs 44 mins       ███████████████░░░░░░░░░░   59.07 % 
+VS Code                  4 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   40.93 % 
 
 🐱‍💻 Projects: 
-lob                      4 hrs 41 mins       ████████████░░░░░░░░░░░░░   47.29 % 
-sdl2-opengl-renderer     2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.67 % 
-crawler                  1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-scratch-2026-10-25-e96bd336 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-scratch-2026-10-26-24a3f44 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+lob                      6 hrs 26 mins       ██████████████░░░░░░░░░░░   56.37 % 
+sdl2-opengl-renderer     2 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+crawler                  1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+scratch-2026-10-25-e96bd336 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+scratch-2026-10-26-24a3f44 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 💻 Operating System: 
-Linux                    9 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +91,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 22:33:49 UTC
+ Last Updated on 28/10/2026 22:49:18 UTC
 <!--END_SECTION:waka-->
 
 ---
