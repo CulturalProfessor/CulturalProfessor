@@ -33,21 +33,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                107 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-🌆 Daytime                617 commits         ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-🌃 Evening                1423 commits        ██████████████░░░░░░░░░░░   54.19 % 
-🌙 Night                  479 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+🌞 Morning                108 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+🌆 Daytime                612 commits         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+🌃 Evening                1420 commits        ██████████████░░░░░░░░░░░   54.22 % 
+🌙 Night                  479 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   237 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Tuesday                  352 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Wednesday                359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Thursday                 332 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Friday                   413 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Saturday                 583 commits         ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Sunday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Monday                   238 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Tuesday                  350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Wednesday                359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Thursday                 329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Friday                   410 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Saturday                 583 commits         ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+Sunday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
 ```
 
 
@@ -57,25 +57,25 @@ Sunday                   350 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      5 hrs 41 mins       ████████████░░░░░░░░░░░░░   49.86 % 
-Other                    4 hrs 59 mins       ███████████░░░░░░░░░░░░░░   43.77 % 
-Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-CMake                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+C++                      5 hrs 41 mins       █████████████░░░░░░░░░░░░   53.46 % 
+Other                    4 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   39.72 % 
+Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+CMake                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 44 mins       ███████████████░░░░░░░░░░   59.07 % 
-VS Code                  4 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   40.93 % 
+Claude Code              5 hrs 58 mins       ██████████████░░░░░░░░░░░   56.12 % 
+VS Code                  4 hrs 40 mins       ███████████░░░░░░░░░░░░░░   43.88 % 
 
 🐱‍💻 Projects: 
-lob                      6 hrs 26 mins       ██████████████░░░░░░░░░░░   56.37 % 
-sdl2-opengl-renderer     2 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-crawler                  1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-scratch-2026-10-25-e96bd336 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-scratch-2026-10-26-24a3f44 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+lob                      6 hrs 26 mins       ███████████████░░░░░░░░░░   60.44 % 
+sdl2-opengl-renderer     1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+crawler                  1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+scratch-2026-10-25-e96bd336 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+scratch-2026-10-26-24a3f44 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 Operating System: 
-Linux                    11 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +91,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 22:49:18 UTC
+ Last Updated on 29/10/2026 22:58:19 UTC
 <!--END_SECTION:waka-->
 
 ---
