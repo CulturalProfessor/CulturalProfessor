@@ -26,9 +26,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C428%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C430%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-383%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-385%20hrs%2027%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -57,24 +57,25 @@ Sunday                   350 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      2 hrs 12 mins       ███████████████░░░░░░░░░░   58.31 % 
-Other                    1 hr 10 mins        ████████░░░░░░░░░░░░░░░░░   31.12 % 
-Text                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+C++                      3 hrs 58 mins       ███████████████░░░░░░░░░░   58.97 % 
+Other                    2 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.08 % 
+Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+CMake                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 11 mins       ██████████████░░░░░░░░░░░   57.60 % 
-VS Code                  1 hr 36 mins        ███████████░░░░░░░░░░░░░░   42.40 % 
+Claude Code              3 hrs 56 mins       ███████████████░░░░░░░░░░   58.32 % 
+VS Code                  2 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   41.68 % 
 
 🐱‍💻 Projects: 
-lob                      3 hrs 11 mins       █████████████████████░░░░   83.91 % 
-scratch-2026-11-06-75a30922 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-scratch-2026-11-02-1dc5ac9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-sdl2-opengl-renderer     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-scratch-2026-11-02-4723d91 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+lob                      5 hrs 9 mins        ███████████████████░░░░░░   76.37 % 
+scratch-2026-11-08-71fb1852 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+scratch-2026-11-06-75a30922 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+scratch-2026-11-02-1dc5ac9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+scratch-2026-11-08-0fe0825 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 💻 Operating System: 
-Linux                    3 hrs 47 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +91,7 @@ Kotlin                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/11/2026 22:15:35 UTC
+ Last Updated on 08/11/2026 22:25:00 UTC
 <!--END_SECTION:waka-->
 
 ---
