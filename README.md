@@ -26,9 +26,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C431%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C432%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-387%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-388%20hrs%2039%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -57,25 +57,25 @@ Sunday                   352 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      5 hrs 13 mins       █████████████░░░░░░░░░░░░   53.83 % 
-Other                    3 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.26 % 
-Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-CMake                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+C++                      5 hrs 27 mins       ██████████████░░░░░░░░░░░   55.96 % 
+Other                    3 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   35.40 % 
+Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+CMake                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 2 mins        ████████████████░░░░░░░░░   62.36 % 
-VS Code                  3 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   37.64 % 
+Claude Code              6 hrs 6 mins        ████████████████░░░░░░░░░   62.51 % 
+VS Code                  3 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   37.49 % 
 
 🐱‍💻 Projects: 
-lob                      6 hrs 39 mins       █████████████████░░░░░░░░   68.63 % 
-scratch-2026-11-08-71fb181 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-scratch-2026-11-08-eb39a156 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-scratch-2026-11-06-75a30922 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-scratch-2026-11-07-5bc81311 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+lob                      6 hrs 52 mins       ██████████████████░░░░░░░   70.44 % 
+scratch-2026-11-08-71fb181 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+scratch-2026-11-08-eb39a156 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+scratch-2026-11-06-75a30922 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+scratch-2026-11-07-5bc81311 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 41 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,7 +91,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2026 01:47:58 UTC
+ Last Updated on 10/11/2026 23:42:32 UTC
 <!--END_SECTION:waka-->
 
 ---
