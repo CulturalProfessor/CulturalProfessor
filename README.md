@@ -57,20 +57,16 @@ Sunday                   352 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      1 hr 10 mins        ████████████████████░░░░░   80.59 % 
-Markdown                 14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████░░░░░░░░░░░░   52.42 % 
-Claude Code              41 mins             ████████████░░░░░░░░░░░░░   47.58 % 
+Claude Code              2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lob                      1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +82,7 @@ GDScript                 2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2026 02:01:20 UTC
+ Last Updated on 18/11/2026 01:14:10 UTC
 <!--END_SECTION:waka-->
 
 ---
